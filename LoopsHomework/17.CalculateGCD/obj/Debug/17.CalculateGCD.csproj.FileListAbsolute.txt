@@ -1,0 +1,9 @@
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb

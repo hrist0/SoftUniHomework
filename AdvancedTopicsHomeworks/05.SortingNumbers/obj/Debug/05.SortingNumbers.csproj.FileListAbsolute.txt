@@ -1,0 +1,6 @@
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\05.SortingNumbers\bin\Debug\05.SortingNumbers.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\05.SortingNumbers\obj\Debug\05.SortingNumbers.csprojResolveAssemblyReference.cache

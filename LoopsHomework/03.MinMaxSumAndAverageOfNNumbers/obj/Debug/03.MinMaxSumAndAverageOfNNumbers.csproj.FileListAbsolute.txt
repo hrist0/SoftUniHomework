@@ -1,0 +1,10 @@
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb

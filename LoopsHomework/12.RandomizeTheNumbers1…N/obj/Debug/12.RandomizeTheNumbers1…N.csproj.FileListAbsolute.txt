@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\12.RandomizeTheNumbers1…N\bin\Debug\12.RandomizeTheNumbers1…N.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\12.RandomizeTheNumbers1…N\bin\Debug\12.RandomizeTheNumbers1…N.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\12.RandomizeTheNumbers1…N\bin\Debug\12.RandomizeTheNumbers1…N.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\12.RandomizeTheNumbers1…N\obj\Debug\12.RandomizeTheNumbers1…N.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\12.RandomizeTheNumbers1…N\obj\Debug\12.RandomizeTheNumbers1…N.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\12.RandomizeTheNumbers1…N\obj\Debug\12.RandomizeTheNumbers1…N.pdb

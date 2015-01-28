@@ -1,0 +1,12 @@
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\18.TraillingZeroesInN!\bin\Debug\18.TraillingZeroesInN!.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\18.TraillingZeroesInN!\bin\Debug\18.TraillingZeroesInN!.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\18.TraillingZeroesInN!\bin\Debug\18.TraillingZeroesInN!.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\18.TraillingZeroesInN!\obj\Debug\18.TraillingZeroesInN!.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\18.TraillingZeroesInN!\obj\Debug\18.TraillingZeroesInN!.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\18.TraillingZeroesInN!\bin\Debug\18.TraillingZeroesInN!.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\18.TraillingZeroesInN!\obj\Debug\18.TraillingZeroesInN!.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\18.TraillingZeroesInN!\obj\Debug\18.TraillingZeroesInN!.pdb

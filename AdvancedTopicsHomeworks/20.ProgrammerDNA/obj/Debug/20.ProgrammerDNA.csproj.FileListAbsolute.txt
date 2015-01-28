@@ -1,0 +1,9 @@
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.exe
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.exe
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.pdb

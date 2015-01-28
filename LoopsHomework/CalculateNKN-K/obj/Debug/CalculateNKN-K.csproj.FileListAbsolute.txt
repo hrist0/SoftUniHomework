@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculateNKN-K\bin\Debug\CalculateNKN-K.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculateNKN-K\bin\Debug\CalculateNKN-K.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculateNKN-K\bin\Debug\CalculateNKN-K.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculateNKN-K\obj\Debug\CalculateNKN-K.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculateNKN-K\obj\Debug\CalculateNKN-K.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculateNKN-K\obj\Debug\CalculateNKN-K.pdb

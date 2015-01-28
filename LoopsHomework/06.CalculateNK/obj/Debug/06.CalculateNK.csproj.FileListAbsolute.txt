@@ -1,0 +1,10 @@
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\06.CalculateNK\bin\Debug\06.CalculateNK.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\06.CalculateNK\bin\Debug\06.CalculateNK.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\06.CalculateNK\bin\Debug\06.CalculateNK.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\06.CalculateNK\obj\Debug\06.CalculateNK.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\06.CalculateNK\obj\Debug\06.CalculateNK.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\06.CalculateNK\bin\Debug\06.CalculateNK.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\06.CalculateNK\obj\Debug\06.CalculateNK.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\06.CalculateNK\obj\Debug\06.CalculateNK.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\06.CalculateNK\bin\Debug\06.CalculateNK.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\06.CalculateNK\bin\Debug\06.CalculateNK.pdb

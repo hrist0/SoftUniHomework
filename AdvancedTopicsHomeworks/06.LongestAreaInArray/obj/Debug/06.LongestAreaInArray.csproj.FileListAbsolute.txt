@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache

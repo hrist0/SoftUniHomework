@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\09.RemoveNames\obj\Debug\09.RemoveNames.pdb

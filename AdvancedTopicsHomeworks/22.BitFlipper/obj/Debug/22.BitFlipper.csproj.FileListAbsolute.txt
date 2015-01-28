@@ -1,0 +1,6 @@
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\22.BitFlipper\bin\Debug\22.BitFlipper.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\22.BitFlipper\bin\Debug\22.BitFlipper.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\22.BitFlipper\bin\Debug\22.BitFlipper.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\22.BitFlipper\obj\Debug\22.BitFlipper.csprojResolveAssemblyReference.cache
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\22.BitFlipper\obj\Debug\22.BitFlipper.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\22.BitFlipper\obj\Debug\22.BitFlipper.pdb

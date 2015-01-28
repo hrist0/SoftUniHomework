@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\21.Arrow\bin\Debug\21.Arrow.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\21.Arrow\bin\Debug\21.Arrow.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\21.Arrow\bin\Debug\21.Arrow.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\21.Arrow\obj\Debug\21.Arrow.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\21.Arrow\obj\Debug\21.Arrow.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\21.Arrow\obj\Debug\21.Arrow.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\19.StudentCables\bin\Debug\19.StudentCables.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\19.StudentCables\bin\Debug\19.StudentCables.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\19.StudentCables\bin\Debug\19.StudentCables.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\19.StudentCables\bin\Debug\19.StudentCables.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\19.StudentCables\obj\Debug\19.StudentCables.csprojResolveAssemblyReference.cache
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\19.StudentCables\obj\Debug\19.StudentCables.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\19.StudentCables\obj\Debug\19.StudentCables.pdb

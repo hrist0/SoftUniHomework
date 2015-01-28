@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\7.MatrixOFPalindromes\bin\Debug\7.MatrixOFPalindromes.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\7.MatrixOFPalindromes\bin\Debug\7.MatrixOFPalindromes.exe
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\7.MatrixOFPalindromes\bin\Debug\7.MatrixOFPalindromes.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\7.MatrixOFPalindromes\obj\Debug\7.MatrixOFPalindromes.exe
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\7.MatrixOFPalindromes\obj\Debug\7.MatrixOFPalindromes.pdb

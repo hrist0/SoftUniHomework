@@ -1,0 +1,12 @@
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\bin\Debug\17.PerimeterAndAreaOfPolygon.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\bin\Debug\17.PerimeterAndAreaOfPolygon.exe
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\bin\Debug\17.PerimeterAndAreaOfPolygon.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\obj\Debug\17.PerimeterAndAreaOfPolygon.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\obj\Debug\17.PerimeterAndAreaOfPolygon.exe
+C:\Users\Ico\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\obj\Debug\17.PerimeterAndAreaOfPolygon.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\bin\Debug\17.PerimeterAndAreaOfPolygon.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\obj\Debug\17.PerimeterAndAreaOfPolygon.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\obj\Debug\17.PerimeterAndAreaOfPolygon.csprojResolveAssemblyReference.cache
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\bin\Debug\17.PerimeterAndAreaOfPolygon.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\bin\Debug\17.PerimeterAndAreaOfPolygon.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\17.PerimeterAndAreaOfPolygon\obj\Debug\17.PerimeterAndAreaOfPolygon.pdb

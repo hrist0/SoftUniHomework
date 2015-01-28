@@ -1,0 +1,8 @@
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\CalculatesTheSumS\bin\Debug\CalculatesTheSumS.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\CalculatesTheSumS\obj\Debug\CalculatesTheSumS.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\CalculatesTheSumS\obj\Debug\CalculatesTheSumS.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\CalculatesTheSumS\bin\Debug\CalculatesTheSumS.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\CalculatesTheSumS\bin\Debug\CalculatesTheSumS.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\CalculatesTheSumS\bin\Debug\CalculatesTheSumS.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\CalculatesTheSumS\obj\Debug\CalculatesTheSumS.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\CalculatesTheSumS\obj\Debug\CalculatesTheSumS.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\22.OddEvenElements\bin\Debug\22.OddEvenElements.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\22.OddEvenElements\bin\Debug\22.OddEvenElements.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\22.OddEvenElements\bin\Debug\22.OddEvenElements.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\22.OddEvenElements\obj\Debug\22.OddEvenElements.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\22.OddEvenElements\obj\Debug\22.OddEvenElements.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\22.OddEvenElements\obj\Debug\22.OddEvenElements.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\22.OddEvenElements\bin\Debug\22.OddEvenElements.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\22.OddEvenElements\obj\Debug\22.OddEvenElements.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\LoopsHomework\22.OddEvenElements\obj\Debug\22.OddEvenElements.pdb

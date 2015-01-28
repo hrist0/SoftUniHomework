@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.exe
+C:\Users\Ico\Documents\Visual Studio Homework\LoopsHomework\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.pdb

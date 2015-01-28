@@ -1,0 +1,6 @@
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\21.MagicCarNumbers\bin\Debug\21.MagicCarNumbers.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\21.MagicCarNumbers\bin\Debug\21.MagicCarNumbers.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\21.MagicCarNumbers\bin\Debug\21.MagicCarNumbers.pdb
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\21.MagicCarNumbers\obj\Debug\21.MagicCarNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\21.MagicCarNumbers\obj\Debug\21.MagicCarNumbers.exe
+C:\Users\Turbo-X\Documents\Visual Studio Homework\AdvancedTopicsHomeworks\21.MagicCarNumbers\obj\Debug\21.MagicCarNumbers.pdb

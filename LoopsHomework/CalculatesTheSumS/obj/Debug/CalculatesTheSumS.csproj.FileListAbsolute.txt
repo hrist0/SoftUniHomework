@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculatesTheSumS\bin\Debug\CalculatesTheSumS.exe.config
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculatesTheSumS\bin\Debug\CalculatesTheSumS.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculatesTheSumS\bin\Debug\CalculatesTheSumS.pdb
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculatesTheSumS\obj\Debug\CalculatesTheSumS.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculatesTheSumS\obj\Debug\CalculatesTheSumS.exe
+C:\Users\Ico\Documents\Visual Studio Homework\Solution1\CalculatesTheSumS\obj\Debug\CalculatesTheSumS.pdb
