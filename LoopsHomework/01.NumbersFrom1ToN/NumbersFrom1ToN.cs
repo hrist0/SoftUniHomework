@@ -12,6 +12,8 @@
                 Console.Write(count + " ");
             }
             Console.WriteLine();
+            Console.WriteLine("HI!!!");
         }
+
     }
 
