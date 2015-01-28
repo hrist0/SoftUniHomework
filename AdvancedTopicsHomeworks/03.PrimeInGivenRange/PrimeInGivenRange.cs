@@ -17,6 +17,7 @@ class PrimeNumberCheck
         if (y == 2)
         {
             Console.WriteLine(true);
+            Console.WriteLine("true true!!!");
         }
         else
         {
